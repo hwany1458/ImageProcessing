@@ -25,6 +25,8 @@ Learned image compression algorithms use neural networks (often autoencoders, va
 
  * TensorFlow Compression and CompressAI (PyTorch) provide open-source libraries for learned image compression research.
  * Notable papers:
+   - End-to-End Optimized Image Compression (Ballé et al., 2017)
+   - Variational Image Compression with a Scale Hyperprior (Ballé et al., 2018)
 
 ### Demo Code Example (PyTorch-line pseudo-code)
 
